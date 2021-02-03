@@ -2,7 +2,7 @@
 Proyecto Final TC2008 Equipo 6
 
 ## Video
-El video de demostración del proyecto se puede ver [aquí.](https://youtu.be/Uabp4iEA-uk)
+El video de la demostración del proyecto se puede ver [aquí.](https://youtu.be/Uabp4iEA-uk)
 
 ## Integrantes del equipo
 - Mario Rivera Fernández
