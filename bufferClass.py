@@ -46,7 +46,10 @@ class Buffer:
 
             self.full = False
             self.cons = False
-            self.semDis.release(2)
+            self.semDis.release()
+            self.semDis.release()
+
+
 
             if not self.running:
                 return
