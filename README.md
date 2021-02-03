@@ -1,7 +1,8 @@
 # TC2008-I21-Eq6
 Proyecto Final TC2008 Equipo 6
 
-[Video Funcionamiento](https://youtu.be/Uabp4iEA-uk)
+## Video
+El video de demostración del proyecto se puede ver [aquí.](https://youtu.be/Uabp4iEA-uk)
 
 ## Integrantes del equipo
 - Mario Rivera Fernández
