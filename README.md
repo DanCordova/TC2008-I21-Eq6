@@ -2,8 +2,8 @@
 Proyecto Final TC2008 Equipo 6
 
 
--Mario Rivera Fernández
--Jaime Andrés Ramírez Stanford
--André Alberto Contreras R
--Daniel Córdova Bermúdez
+- Mario Rivera Fernández
+- Jaime Andrés Ramírez Stanford
+- André Alberto Contreras R
+- Daniel Córdova Bermúdez
 - Diego Armando Ayala Hernández
