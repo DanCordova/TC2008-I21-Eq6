@@ -3,7 +3,7 @@ Proyecto Final TC2008 Equipo 6
 
 Se realizó el proyecto en Python, por la gran cantidad de librerias disponibles, en este caso se uso la libreria PyQt5 para realizar una interfaz gráfica. Además Python tiene incluido threads\
 
-##Instalación
+## Instalación
 
 Es necesario tener Python así como la libreria PyQt5
 
