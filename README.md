@@ -7,7 +7,7 @@ Se realizó el proyecto en Python, por la gran cantidad de librerias disponibles
 
 Es necesario tener Python así como la libreria PyQt5 para ello se puede correr el comando en terminal:
 
-                  /pip install pyqt5
+                  pip install pyqt5
 
 ## Video
 El video de la demostración del proyecto se puede ver [aquí.](https://youtu.be/Uabp4iEA-uk)
